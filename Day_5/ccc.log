@@ -1,0 +1,9 @@
+INFO:root:info
+WARNING:root:Warning
+ERROR:root:error
+CRITICAL:root:critical
+INFO:root:info
+WARNING:root:Warning
+ERROR:root:error
+CRITICAL:root:critical
+INFO:__main__:custom logging

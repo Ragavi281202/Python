@@ -1,0 +1,5 @@
+Name : Ragavi VG
+Designation : Full Stack Developer
+Company Name : BU Soft Technologies
+Experience : 1
+Skill : Angular,React,Python,Mysql
